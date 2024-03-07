@@ -1,0 +1,1 @@
+.footer-simple{display:flex;justify-content:space-between}.footer-simple *{color:#babcbf;font-weight:400;font-size:clamp(.625rem,.582rem + .192vw,.813rem);line-height:16px}.footer-simple__offer,.footer-simple__privacy-police{text-decoration:underline}
